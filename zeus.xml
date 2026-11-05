@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+  <Say voice="Polly.Bianca" language="it-IT">
+    Ciao, sono Zeus. Abbiamo rilevato un problema su INGW. È richiesto un intervento immediato.
+  </Say>
+  <Hangup/>
+</Response>
